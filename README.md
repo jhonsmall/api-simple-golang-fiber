@@ -25,6 +25,6 @@ _____ / /_  / / __ \/ _ \/ ___/
 Started listening on 0.0.0.0:3000
 ```
 
-Entonces ya puedes comenzar a probar en tú `localhost:3000` o utilizando la (colección de postman con los enpoints aquí.)[https://www.getpostman.com/collections/7fffc4d209bbb797b994]
+Entonces ya puedes comenzar a probar en tú `localhost:3000` o utilizando la [colección de postman con los enpoints aquí.](https://www.getpostman.com/collections/7fffc4d209bbb797b994)
 
 ¡Mucho exito en tu camino de aprendizaje!
